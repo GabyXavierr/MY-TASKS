@@ -8,9 +8,7 @@
 }
 
 body {
-    background-image: url("https://i.pinimg.com/564x/52/50/91/525091bf86ee25f7d50ca29ef470276a.jpg");
-    /*background-image: linear-gradient(to right, #0040ca, #00d49f);
-    */
+    background-image: linear-gradient(to right, #3CDBD3, #c4fffc);
 }
 
 main {
@@ -41,7 +39,7 @@ input {
 }
 
 button[type="submit"] {
-    background-color: #725133;
+    background-color: #3CDBD3;
     height: 50px;
     width: 50px;
     border: none;
@@ -101,11 +99,11 @@ select:hover {
 }
 
 .btn-action:nth-child(1) {
-   background-color: #A57253;
+   background-color: #3CDBD3;
    margin-right: 5px;
 }
 
 .btn-action:nth-child(2) {
-    background-color: #725133;
+    background-color: #046964;
     margin-right: 5px;
  }
